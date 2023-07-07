@@ -1,6 +1,6 @@
 # Simple-calculator
 
-Simple-calculator is a simple calculator coded in C++
+Simple-calculator is a calculator coded in C++
 
 ## Requirements
 
