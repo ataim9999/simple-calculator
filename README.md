@@ -18,6 +18,8 @@ or download the file(s)
 
 ## Compile
 
+I already compiled it for you but if you dont trust the .exe you can always compile if by yourself:
+
 Open a terminal / cmd.
 
 ```
